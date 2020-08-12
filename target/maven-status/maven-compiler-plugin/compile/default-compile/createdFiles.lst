@@ -1,0 +1,13 @@
+OrderShipping\config\kafka\KafkaProcessor.class
+OrderShipping\AbstractEvent$1.class
+OrderShipping\PolicyHandler.class
+OrderShipping\external\Cancelation.class
+OrderShipping\OrderRepository.class
+OrderShipping\OrderApplication.class
+OrderShipping\OrderCanceled.class
+OrderShipping\OrderController.class
+OrderShipping\Order.class
+OrderShipping\Ordered.class
+OrderShipping\Shipped.class
+OrderShipping\external\CancelationService.class
+OrderShipping\AbstractEvent.class

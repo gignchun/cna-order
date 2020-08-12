@@ -69,4 +69,4 @@ spring:
 # 추가 (동기호츌)
 api:
   url:
-    delivery: http://delivery:8082
+    delivery: http://delivery:8080
